@@ -11,9 +11,6 @@ The simulation of the QDC is done in LT-Spice Software and the repository contai
 
 For running the simulations, **LT-Spice** Software is required which can be downloaded from [here](https://ltspice-iv.en.lo4d.com/windows). Opening the `.asv` files in LT-Spice will open the circuit and the simulations can be run easily.
 
-## Hardware Implementation
-The QDC is also implemented in hardware, the results and pictures of which are contained in the `Hardware` folder. 
-
 ## Flow Diagram
 The following Figure represents the general flow of the QDC System highlighting the three parts of the convertor.
 
